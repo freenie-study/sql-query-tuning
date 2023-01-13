@@ -1,4 +1,3 @@
-
 <p align="center" style="font-size : 45px">
 <strong>친정한 쿼리 튜닝</strong>
 </p>
